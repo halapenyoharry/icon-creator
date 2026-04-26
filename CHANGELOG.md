@@ -1,3 +1,4 @@
+2026-04-26: Added icon-generator.html — a minimal HTML demo that generates a modular, data-driven icon based on a GitHub repository name and user-selected generative layers. See the file for details.
 # Changelog
 
 
