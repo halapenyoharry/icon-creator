@@ -1,3 +1,4 @@
+2026-05-01: Added icon-generator-batch.html — supports generating up to 1024 icons at once, user-set preview/export size, and per-icon export. See file for details.
 2026-04-26: Added icon-generator.html — a minimal HTML demo that generates a modular, data-driven icon based on a GitHub repository name and user-selected generative layers. See the file for details.
 # Changelog
 
